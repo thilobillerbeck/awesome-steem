@@ -1,6 +1,6 @@
 # Awesome Steem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A cureted list about these awesome smart media tokens
+> A curated list about these awesome smart media tokens
 
 
 ## Contents
@@ -25,31 +25,31 @@
 - [DTube](https://d.tube/) - The Steem based video platform (similar to Youtube)
 - [Mapala](https://mapala.net/en/) - Travel platform
 - [steemit](https://steemit.com) - Every content insertions into the Steem blockchain in one site
-- [SteemJ](http://www.steemj.com/) - Job Marketplace (similar to twago)
+- [SteemJ](http://www.steemj.com/) - Job marketplace (similar to twago)
+- [Steempunk](https://www.steempunk.net/) - The Steem based MMORPG
 - [steepshot](http://steepshot.io/) - The Steem based image sharing service (similar to Instagram)
 - [Utopian](http://utopian.io/) - Rewards for Open-Source Contributions
 - [Zappl](https://zappl.com/) - The Steem based short message service (similar to Twitter)
-- [Steempunk](https://www.steempunk.net/) - The Steem based MMORPG
 
 ## Tools
 
-- [Coinmarketcap](https://coinmarketcap.com/currencies/steem/) - the steem market cap
+- [Coinmarketcap](https://coinmarketcap.com/currencies/steem/) - Steem market cap
 - [Dead Followers](http://steemit.deadfollowers.info/) - Show inactive followers
-- [Gina](https://steemit.com/introduceyourself/@ginabot/hi-i-am-gina-i-m-here-to-help) - steemit notification bot
-- [Phist](https://phist.steemdata.com/) - steemit post version history
+- [Gina](https://steemit.com/introduceyourself/@ginabot/hi-i-am-gina-i-m-here-to-help) - Steemit notification bot
+- [Phist](https://phist.steemdata.com/) - Steemit post version history
 - [Piston](http://piston.rocks/) - The swiss army knife for the steem network
 - [Steem Bot Tracker](https://steembottracker.com/) - Everything about promotion bots
-- [Steem Down](https://steemdown.com/) - see which whales are pwoering down
-- [Steem Now](https://www.steemnow.com/) - shows you your bandwith and other profile stats
-- [Steem Reports](http://www.steemreports.com/) - account dashboard
-- [Steem Supply](http://steem.supply/) - Tells you when you will be paid
+- [Steem Down](https://steemdown.com/) - See which whales are powering down
+- [Steem Now](https://www.steemnow.com/) - Shows your bandwith and other profile stats
+- [Steem Reports](http://www.steemreports.com/) - Account dashboard
+- [Steem Supply](http://steem.supply/) - Shows when you will be paid
 - [Steem Whales](http://steemwhales.com/) - Steemian ranking website
-- [Steem.Cool](http://steem.cool/) - shows your reputation
-- [SteemDB](https://steemdb.com/) - general steem information
+- [Steem.Cool](http://steem.cool/) - Shows your reputation
+- [SteemDB](https://steemdb.com/) - General steem information
 - [Steemit Sidebar](https://utopian.io/utopian-io/@mwfiae/steemit-sidebar) - Sidebar to enhance the steemit experience
 - [Steemimg](http://steemimg.com/) - Image hosting for steemit
-- [Steemstats](http://steemstats.com/) - blockchain and individual user stats
-- [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - see the vote worth of any user
+- [Steemstats](http://steemstats.com/) - Blockchain- and individual user stats
+- [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - See the vote worth of any user
 
 ## Mobile Apps
 
@@ -69,7 +69,7 @@
 - [@theaustrianguy](https://steemit.com/deutsch/@theaustrianguy/deutschsprachige-tutorials-fuer-steemit-neulinge-ein-ueberblick) - Tutorials about nearly every steemit topic
 
 ## Chats
-- [Steem Chat](http://steemit.chat/)
+- [Steem Chat](http://steemit.chat/) - Official steemit chat
 
 
 ### Discord
