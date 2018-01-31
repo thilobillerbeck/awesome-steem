@@ -26,7 +26,6 @@
 - [Mapala](https://mapala.net/en/) - Travel platform
 - [steemit](https://steemit.com) - Every content insertions into the Steem blockchain in one site
 - [SteemJ](http://www.steemj.com/) - Job marketplace (similar to twago)
-- [Steempunk](https://www.steempunk.net/) - The Steem based MMORPG
 - [steepshot](http://steepshot.io/) - The Steem based image sharing service (similar to Instagram)
 - [Utopian](http://utopian.io/) - Rewards for Open-Source Contributions
 - [Zappl](https://zappl.com/) - The Steem based short message service (similar to Twitter)
@@ -50,6 +49,10 @@
 - [Steemimg](http://steemimg.com/) - Image hosting for steemit
 - [Steemstats](http://steemstats.com/) - Blockchain- and individual user stats
 - [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - See the vote worth of any user
+
+## Games
+
+- [STEEMPUNK-NET](https://www.steempunk.net/) - The Steem based MMORPG
 
 ## Mobile Apps
 
@@ -76,7 +79,7 @@
 - [DLive](https://discord.gg/qzsJqMA) - General DLive Discord
 - [DTube](https://discord.gg/6bzJWyW) - General DTube Discord
 - [Steemit D-A-CH](https://discord.gg/xpb43eK) - Austrian / German / Switzerland Community Discord
-- [SteemPunk](https://discord.gg/baax5eS) - Discord for Steempunk Game
+- [STEEMPUNK-NET](https://discord.gg/baax5eS) - Discord for Steempunk Game
 
 ## Contribute
 
