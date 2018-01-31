@@ -7,6 +7,7 @@
 
 - [Sites](#sites)
 - [Tools](#tools)
+- [Games](#games)
 - [Mobile Apps](#mobile-apps)
     - [Android](#android)
     - [iOS](#ios)
