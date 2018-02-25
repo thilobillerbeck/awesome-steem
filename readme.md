@@ -50,6 +50,7 @@
 - [Steemimg](http://steemimg.com/) - Image hosting for steemit
 - [Steemstats](http://steemstats.com/) - Blockchain- and individual user stats
 - [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - See the vote worth of any user
+- [Steemistry](http://steemistry.com/steemit-mentions-tool) - To see your steemit mentions.
 
 ## Games
 
