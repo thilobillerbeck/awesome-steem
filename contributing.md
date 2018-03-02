@@ -8,9 +8,15 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Double check your contribution
-- be nice to each other
-- no self pushing
+- A precise and understandable header like `Added ressource X to category Y`
+- It should have to do with the steem ecosystem
+- Check if the ressource you are contributing is working / available (example: check for dead links)
+- Include a link to the ressource you want to add to the list
+- Describe why this is useful for Steem users
+- All ressources are in alphabetical order and it should be kept that way. If your ressource still conflicts in that order, put it under the conflicting item
+- Be nice to each other ;)
+
+Please notice that pull-requests that are not following the guidelines above or are unappropriately used (such as self pushing content) will not be accepted.
 
 Thank you for your suggestions!
 
