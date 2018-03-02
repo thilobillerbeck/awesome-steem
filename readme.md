@@ -45,7 +45,7 @@
 - [Steemimg](http://steemimg.com/) - Image hosting service which specialized on hosting images for Steem content
 - [Steemstats](http://steemstats.com/) - Another Dashboard which shows you blockchain- and individual user's stats
 - [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - Here you can see the worth of a specific user's vote
-- [Steemistry](http://steemistry.com/steemit-mentions-tool) - A service which shows articles you have been mentioned in
+- [Steemistry](http://steemistry.com/steemit-mentions-tool) - Shows you the articles you have been mentioned in
 
 ## Games
 
