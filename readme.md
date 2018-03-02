@@ -1,11 +1,11 @@
 # Awesome Steem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list of ressources like platforms, analytics and tutorials for Steem media tokens
+> A curated list of ressources like content-platforms and analytic tools for Steem media tokens
 
 
 ## Contents
 
-- [Content Platforms](#content-platforms)
+- [Content-Platforms](#content-platforms)
 - [Tools](#tools)
 - [Games](#games)
 - [Mobile Apps](#mobile-apps)
@@ -14,7 +14,7 @@
 - [Chats](#chats)
     - [Discord](#discord)
 
-## Content Platforms
+## Content-Platforms
 
 - [busy](https://busy.org/) - This is a platform to share your editorial content
 - [ChainBB](https://chainbb.com/) - ChainBB is a forum that uses the Steem currency
