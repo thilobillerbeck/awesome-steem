@@ -1,92 +1,81 @@
 # Awesome Steem [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> A curated list about these awesome smart media tokens
+> A curated list of ressources like platforms, analytics and tutorials for Steem media tokens
 
 
 ## Contents
 
-- [Sites](#sites)
+- [Content Platforms](#content-platforms)
 - [Tools](#tools)
 - [Games](#games)
 - [Mobile Apps](#mobile-apps)
     - [Android](#android)
     - [iOS](#ios)
-- [Tutorials](#tutorials)
-    - [German](#german)
 - [Chats](#chats)
     - [Discord](#discord)
 
-## Sites
+## Content Platforms
 
-- [busy](https://busy.org/) - Platform for editorial content
-- [ChainBB](https://chainbb.com/) - The Steem based forum
-- [DLive](https://dlive.io/) - The Steem based live-streaming platform (similar to Twitch)
-- [dMania](https://dmania.lol/) - The Steem based joke platform (similar to 9GAG)
-- [DSound](https://dsound.audio/) - The Steem based sound sharing platform (similar to Soundcloud)
-- [DTube](https://d.tube/) - The Steem based video platform (similar to Youtube)
-- [Mapala](https://mapala.net/en/) - Travel platform
-- [steemit](https://steemit.com) - Every content insertions into the Steem blockchain in one site
-- [SteemJ](http://www.steemj.com/) - Job marketplace (similar to twago)
+- [busy](https://busy.org/) - This is a platform to share your editorial content
+- [ChainBB](https://chainbb.com/) - ChainBB is a forum that uses the Steem currency
+- [DLive](https://dlive.io/) - Live-Streaming service with Steem monetization (similar to Twitch)
+- [dMania](https://dmania.lol/) - Sharing-Platform for Memes and Jokes (similar to 9GAG)
+- [DSound](https://dsound.audio/) - Soundsharing with Steem monetization (similar to Soundcloud)
+- [DTube](https://d.tube/) - Video sharing platform with Steem monetization (similar to Youtube)
+- [Mapala](https://mapala.net/en/) - This is a good place if you want to share your traveling experience with the world and earn some Steem
+- [steemit](https://steemit.com) - If you wnat to see every content an account posted, this is the place to go
 - [steepshot](http://steepshot.io/) - The Steem based image sharing service (similar to Instagram)
-- [Utopian](http://utopian.io/) - Rewards for Open-Source Contributions
-- [Zappl](https://zappl.com/) - The Steem based short message service (similar to Twitter)
+- [Utopian](http://utopian.io/) - Contribute to Open-Source projects and earn some Steem along the way
+- [Zappl](https://zappl.com/) - Short Messaging service with Steem monetization (similar to Twitter)
 
 ## Tools
 
-- [Coinmarketcap](https://coinmarketcap.com/currencies/steem/) - Steem market cap
-- [Dead Followers](http://steemit.deadfollowers.info/) - Show inactive followers
-- [Gina](https://steemit.com/introduceyourself/@ginabot/hi-i-am-gina-i-m-here-to-help) - Steemit notification bot
-- [Phist](https://phist.steemdata.com/) - Steemit post version history
-- [Piston](http://piston.rocks/) - The swiss army knife for the steem network
-- [Steem Bot Tracker](https://steembottracker.com/) - Everything about promotion bots
-- [Steem Down](https://steemdown.com/) - See which whales are powering down
-- [Steem Now](https://www.steemnow.com/) - Shows your bandwith and other profile stats
-- [Steem Reports](http://www.steemreports.com/) - Account dashboard
-- [Steem Supply](http://steem.supply/) - Shows when you will be paid
-- [Steem Whales](http://steemwhales.com/) - Steemian ranking website
-- [Steem.Cool](http://steem.cool/) - Shows your reputation
-- [SteemDB](https://steemdb.com/) - General steem information
-- [Steemit Sidebar](https://utopian.io/utopian-io/@mwfiae/steemit-sidebar) - Sidebar to enhance the steemit experience
-- [Steemimg](http://steemimg.com/) - Image hosting for steemit
-- [Steemstats](http://steemstats.com/) - Blockchain- and individual user stats
-- [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - See the vote worth of any user
-- [Steemistry](http://steemistry.com/steemit-mentions-tool) - To see your steemit mentions.
+- [Dead Followers](http://steemit.deadfollowers.info/) - This site shows your dead (inactive) followers
+- [Gina](https://steemit.com/introduceyourself/@ginabot/hi-i-am-gina-i-m-here-to-help) - This is a smart Discord based steemit notification bot
+- [Phist](https://phist.steemdata.com/) - Here you can view every posts version history
+- [Piston](http://piston.rocks/) - Swiss-army knife for the Steem ecosystem
+- [Steem Bot Tracker](https://steembottracker.com/) - Interested in promotional bots, here you can find more information
+- [Steem Now](https://www.steemnow.com/) - Dashboard like monitor about your current voting power and much more
+- [Steem Reports](http://www.steemreports.com/) - Another swiss-army knife for the Steem network
+- [Steem Supply](http://steem.supply/) - Here you can find out, when you will be paid for your content
+- [Steem Whales](http://steemwhales.com/) - Shows you who has got the most power in the Steem ecosystem
+- [Steem.Cool](http://steem.cool/) - Shows your reputation as well as your voting power
+- [SteemDB](https://steemdb.com/) - Lots of statistics and information about the Steem ecosystem and it's current state
+- [Steemit Sidebar](https://utopian.io/utopian-io/@mwfiae/steemit-sidebar) - This sidebar gives you useful information and stats about the profile you are currently watching
+- [Steemimg](http://steemimg.com/) - Image hosting service which specialized on hosting images for Steem content
+- [Steemstats](http://steemstats.com/) - Another Dashboard which shows you blockchain- and individual user's stats
+- [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - Here you can see the worth of a specific user's vote
+- [Steemistry](http://steemistry.com/steemit-mentions-tool) - A service which shows articles you have been mentioned in
 
 ## Games
 
-- [STEEMPUNK-NET](https://www.steempunk.net/) - The Steem based MMORPG
+- [STEEMPUNK-NET](https://www.steempunk.net/) - An MMORPG which is based on the Steem ecosystem
 
 ## Mobile Apps
 
 ### Android
-- [DTube (inofficial)](https://github.com/powerpoint45/dtube-mobile-unofficial)
-- [eSteem](https://play.google.com/store/apps/details?id=com.netsolutions.esteem&hl=de)
-- [steepshot](https://play.google.com/store/apps/details?id=com.droid.steepshot&rdid=com.droid.steepshot)
+- [DTube (inofficial)](https://github.com/powerpoint45/dtube-mobile-unofficial) - A native inofficial client to view DTube videos
+- [eSteem](https://play.google.com/store/apps/details?id=com.netsolutions.esteem&hl=de) - Mobile client to view Steem content on the go
+- [steepshot](https://play.google.com/store/apps/details?id=com.droid.steepshot&rdid=com.droid.steepshot) - An Instagram like photo sharing network
 
 ### iOS
-- [eSteem](https://itunes.apple.com/de/app/esteem-mobile/id1141397898?mt=8)
-- [Steemify](https://itunes.apple.com/app/steemify/id1290154477)
+- [eSteem](https://itunes.apple.com/de/app/esteem-mobile/id1141397898?mt=8) - Mobile client to view Steem content on the go
+- [Steemify](https://itunes.apple.com/app/steemify/id1290154477) - Get notifications on actions which have been performed on the Steem ecosystem
 
-
-## Tutorials
-### German
-- [@sempervideo](https://steemit.com/@sempervideo) - German Youtube channel which recently started making videos about Steemit
-- [@theaustrianguy](https://steemit.com/deutsch/@theaustrianguy/deutschsprachige-tutorials-fuer-steemit-neulinge-ein-ueberblick) - Tutorials about nearly every steemit topic
 
 ## Chats
-- [Steem Chat](http://steemit.chat/) - Official steemit chat
+- [Steem Chat](http://steemit.chat/) - This is the official steemit chat
 
 
 ### Discord
-- [DLive](https://discord.gg/qzsJqMA) - General DLive Discord
-- [DTube](https://discord.gg/6bzJWyW) - General DTube Discord
-- [Steemit D-A-CH](https://discord.gg/xpb43eK) - Austrian / German / Switzerland Community Discord
-- [STEEMPUNK-NET](https://discord.gg/baax5eS) - Discord for Steempunk Game
+- [DLive](https://discord.gg/qzsJqMA) - The official DLive Discord on which you can share your experience with other people an d get support
+- [DTube](https://discord.gg/6bzJWyW) - The official DTube Discord on which you can share your experience with other people an d get support
+- [Steemit D-A-CH](https://discord.gg/xpb43eK) - A community for people from Austria, Germany and Switzerland
+- [STEEMPUNK-NET](https://discord.gg/baax5eS) - A place to inform yourself about Steempunk, get support and meet other players
 
 ## Contribute
 
 Contributions welcome! Read the [contribution guidelines](contributing.md) first.
-
 
 ## License
 
