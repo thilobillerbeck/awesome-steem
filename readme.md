@@ -49,14 +49,14 @@
 
 ## Games
 
-- [STEEMPUNK-NET](https://www.steempunk.net/) - An MMORPG which is based on the Steem ecosystem
+- [STEEMPUNK-NET](https://www.steempunk.net/) - MMORPG which is based on the Steem ecosystem
 
 ## Mobile Apps
 
 ### Android
-- [DTube (inofficial)](https://github.com/powerpoint45/dtube-mobile-unofficial) - A native inofficial client to view DTube videos
+- [DTube (inofficial)](https://github.com/powerpoint45/dtube-mobile-unofficial) - Native inofficial client to view DTube videos
 - [eSteem](https://play.google.com/store/apps/details?id=com.netsolutions.esteem&hl=de) - Mobile client to view Steem content on the go
-- [steepshot](https://play.google.com/store/apps/details?id=com.droid.steepshot&rdid=com.droid.steepshot) - An Instagram like photo sharing network
+- [steepshot](https://play.google.com/store/apps/details?id=com.droid.steepshot&rdid=com.droid.steepshot) - Instagram like photo sharing network
 
 ### iOS
 - [eSteem](https://itunes.apple.com/de/app/esteem-mobile/id1141397898?mt=8) - Mobile client to view Steem content on the go
@@ -70,8 +70,8 @@
 ### Discord
 - [DLive](https://discord.gg/qzsJqMA) - The official DLive Discord on which you can share your experience with other people an d get support
 - [DTube](https://discord.gg/6bzJWyW) - The official DTube Discord on which you can share your experience with other people an d get support
-- [Steemit D-A-CH](https://discord.gg/xpb43eK) - A community for people from Austria, Germany and Switzerland
-- [STEEMPUNK-NET](https://discord.gg/baax5eS) - A place to inform yourself about Steempunk, get support and meet other players
+- [Steemit D-A-CH](https://discord.gg/xpb43eK) - Community for people from Austria, Germany and Switzerland
+- [STEEMPUNK-NET](https://discord.gg/baax5eS) - Discord server to inform yourself about Steempunk, get support and meet other players
 
 ## Contribute
 
