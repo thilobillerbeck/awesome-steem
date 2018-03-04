@@ -41,12 +41,12 @@
 - [Steem Whales](http://steemwhales.com/) - Shows you who has got the most power in the Steem ecosystem
 - [Steem.Cool](http://steem.cool/) - Shows your reputation as well as your voting power
 - [SteemDB](https://steemdb.com/) - Lots of statistics and information about the Steem ecosystem and it's current state
-- [Steemit Sidebar](https://utopian.io/utopian-io/@mwfiae/steemit-sidebar) - This sidebar gives you useful information and stats about the profile you are currently watching
 - [Steemimg](http://steemimg.com/) - Image hosting service which specialized on hosting images for Steem content
-- [Steemstats](http://steemstats.com/) - Another Dashboard which shows you blockchain- and individual user's stats
-- [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - Here you can see the worth of a specific user's vote
 - [Steemistry](http://steemistry.com/steemit-mentions-tool) - Shows you the articles you have been mentioned in
+- [Steemit Sidebar](https://utopian.io/utopian-io/@mwfiae/steemit-sidebar) - This sidebar gives you useful information and stats about the profile you are currently watching
+- [Steemstats](http://steemstats.com/) - Another Dashboard which shows you blockchain- and individual user's stats
 - [Steemworld](https://steemworld.org) - Shows you some account information about everything
+- [Vote Worth](http://www.steemdollar.com/dollar_per_vote.php?) - Here you can see the worth of a specific user's vote
 
 ## Games
 
