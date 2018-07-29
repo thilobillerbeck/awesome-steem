@@ -2,6 +2,12 @@
 
 > A curated list of ressources like content-platforms and analytic tools for Steem media tokens
 
+Steem is a media token (cryptocurrency) which is mainly used to curate content which can be published in many forms. Therefore, lots of different platforms exist, thtat can be used to either list or publish specific content. In addition to that, there are several tools which can be used to keep track of steem community and one's wallet.
+
+<a href="https://www.patreon.com/sindresorhus">
+	<img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Steem_logo.svg" width="160">
+</a>
+
 ## Contents
 
 * [Content-Platforms](#content-platforms)
