@@ -16,6 +16,10 @@ Steem is a media token (cryptocurrency) which is mainly used to curate content w
   * [iOS](#ios)
 * [Chats / Communities](#chats) - Chats and Communities where you can get in touch with other Steem users.
   * [Discord](#discord)
+  
+## Other steemit-based platforms
+* [whaleshares.io](https://whaleshares.io)
+* [golos.io](https://golos.io) - Russian language centered steemit clone
 
 ## Content-Platforms
 
