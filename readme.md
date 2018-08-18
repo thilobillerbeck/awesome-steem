@@ -9,6 +9,7 @@ Steem is a media token (cryptocurrency) which is mainly used to curate content w
 ## Contents
 
 * [Content-Platforms](#content-platforms) - Platforms, where you can publish your content on.
+* [Language-specific-Platforms](#language-specific-platforms) - Non-internationalized Steem platforms.
 * [Tools](#tools) - Tools to keep track of the Steem community and your wallet.
 * [Games](#games) - Games that use the Steem technology.
 * [Mobile Apps](#mobile-apps) - Mobile Apps for accessing specific functions / platforms on the go.
@@ -17,10 +18,6 @@ Steem is a media token (cryptocurrency) which is mainly used to curate content w
 * [Chats / Communities](#chats) - Chats and Communities where you can get in touch with other Steem users.
   * [Discord](#discord)
   
-## Other steemit-based platforms
-* [whaleshares.io](https://whaleshares.io)
-* [golos.io](https://golos.io) - Russian language centered steemit clone
-
 ## Content-Platforms
 
 * [busy](https://busy.org/) - A platform to share your editorial content.
@@ -33,7 +30,12 @@ Steem is a media token (cryptocurrency) which is mainly used to curate content w
 * [Steemit](https://steemit.com) - See every post of a Steem account, no matter what's the content.
 * [Steepshot](http://steepshot.io/) - The Steem based image sharing service (similar to Instagram).
 * [Utopian](http://utopian.io/) - Contribute to Open-Source projects and earn some Steem along the way.
+* [Whaleshares.io](https://whaleshares.io) - A steemit like platform with some new approaches and enhancments.
 * [Zappl](https://zappl.com/) - Short Messaging service with Steem monetization (similar to Twitter).
+
+## Language-specific-Platforms
+
+* [golos.io](https://golos.io) - Russian language centered steemit clone
 
 ## Tools
 
