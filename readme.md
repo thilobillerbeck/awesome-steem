@@ -26,7 +26,7 @@ Steem is a media token (cryptocurrency) which is mainly used to curate content w
 * [dMania](https://dmania.lol/) - Sharing-Platform for Memes and Jokes (similar to 9GAG).
 * [DSound](https://dsound.audio/) - Soundsharing with Steem monetization (similar to Soundcloud).
 * [DTube](https://d.tube/) - Video sharing platform with Steem monetization (similar to Youtube).
-* [Mapala](https://mapala.net/en/) - Share your traveling experience with the world and earn some Steem.
+* [Mapala](https://steem.mapala.net/) - Share your traveling experience with the world and earn some Steem.
 * [Steemit](https://steemit.com) - See every post of a Steem account, no matter what's the content.
 * [Steepshot](http://steepshot.io/) - The Steem based image sharing service (similar to Instagram).
 * [Utopian](http://utopian.io/) - Contribute to Open-Source projects and earn some Steem along the way.
