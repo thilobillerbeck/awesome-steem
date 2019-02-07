@@ -67,6 +67,7 @@ Steem is a media token (cryptocurrency) which is mainly used to curate content w
 
 * [DTube (inofficial)](https://github.com/powerpoint45/dtube-mobile-unofficial) - Native inofficial client to view DTube videos.
 * [eSteem](https://play.google.com/store/apps/details?id=com.netsolutions.eSteem&hl=de) - Mobile client to view Steem content on the go.
+* [Partiko](https://play.google.com/store/apps/details?id=io.partiko.android) - Mobile client to view Steem content on the go.
 * [steepshot](https://play.google.com/store/apps/details?id=com.droid.steepshot&rdid=com.droid.steepshot) - Instagram like photo sharing network.
 
 ### iOS
